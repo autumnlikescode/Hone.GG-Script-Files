@@ -1,1 +1,0 @@
-The Reverting AMD was made customly by me as hone does not supply one. If may not work, it is custom run with caution. However it should work as it just does the opposite of the applying one
