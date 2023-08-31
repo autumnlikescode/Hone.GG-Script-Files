@@ -1,9 +1,3 @@
----
-title: Hone.GG Script Files
-created: '2023-08-31T03:03:57.033Z'
-modified: '2023-08-31T03:24:03.181Z'
----
-
 # Hone.GG Script Files 
 
 Welcome to the repository for the optimization scripts related to the Hone.gg optimizer! This repository houses the essential script files that are provided for analysis and exploration purposes.
